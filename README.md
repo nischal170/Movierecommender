@@ -1,7 +1,11 @@
 # Movierecommender
 This is my first Data Science Project .It uses content Filtering recommendation and cosine similarities to compute similarity between movies.
 
-## 1. Clone the repository 
+## 1. Clone the repository
+- Install the Dependencies
+```
+pip install -r requirements.txt
+```
 ## 2.Run "movie-recommender.ipynb" First.
 ### After Running You'll get 3 files 
   - movie_dict.pkl

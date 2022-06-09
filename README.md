@@ -12,6 +12,6 @@ pip install -r requirements.txt
   - movies.pkl
   - similarity.pkl
   ## To run app.py
-  - In terminal write "streamlit run app.py"
+  - In terminal write ```streamlit run app.py```
   
   

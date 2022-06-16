@@ -1,5 +1,5 @@
 # Movierecommender
-This is my first Data Science Project .It uses content Filtering recommendation.
+This is my first Data Science Project .It is a content based recommenation System.
 It works on CountVectorizer NLP of tags (overview, genres, keywords, cast & crew).
 
 Metric: Cosine similarity metric is used.

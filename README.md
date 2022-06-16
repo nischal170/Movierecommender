@@ -1,5 +1,12 @@
 # Movierecommender
-This is my first Data Science Project .It uses content Filtering recommendation and cosine similarities to compute similarity between movies.
+This is my first Data Science Project .It uses content Filtering recommendation.
+It works on CountVectorizer NLP of tags (overview, genres, keywords, cast & crew).
+
+Metric: Cosine similarity metric is used.
+
+Api: Movies poster is fetched from the TMDB Movie Database api.
+
+Webapp framework: Streamlit 
 
 ## 1. Clone the repository
 - Install the Dependencies
